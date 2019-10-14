@@ -1,9 +1,12 @@
-# apache-kafka
+# apache-kafka-theory
 Learning Apache Kafka through Udemy courses.
 
-These projects will progressively start as poc then will be updated to solve and/or simulate real use cases.
+At first these projects start as poc then will be updated to solve and/or simulate real use cases.
 
-future projects will contain these technologies:
+Hands on project: kafka-master-course repository
+
+Next steps:
+Poc using these technologies:
 
 Hadoop
 Spark
